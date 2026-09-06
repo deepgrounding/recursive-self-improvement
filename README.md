@@ -15,9 +15,10 @@ because every improvement loop is a claim that some signal can substitute for
 human judgment.
 
 > **Repository relocation.** The paper's Data availability statement cites
-> `github.com/bamboodrift/recursive_self_improvement`, which was never made
-> public. This repository supersedes that link and is the canonical release;
-> the citation will be corrected in the next arXiv version.
+> `github.com/bamboodrift/recursive_self_improvement`, which is a private
+> repository and does not resolve. This repository supersedes that link and is
+> the canonical release; the citation will be corrected in the next arXiv
+> version.
 
 ## Layout
 
